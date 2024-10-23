@@ -1,0 +1,4 @@
+package Challenge;
+
+ class AbsoluteValue {
+}
