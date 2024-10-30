@@ -22,6 +22,7 @@ public class TwoDArray {
                 System.out.print(b[i][j]+ " ");
             }
             System.out.println();
+
         }
 
     }

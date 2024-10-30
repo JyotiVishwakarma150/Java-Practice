@@ -17,6 +17,8 @@ public class ThreeDArray {
             for(int j=0;j<a[i].length;j++){
                 for(int k=0;k<a[i][j].length;k++){
                     System.out.println(a[i][j][k]);
+
+
                 }
             }
         }
